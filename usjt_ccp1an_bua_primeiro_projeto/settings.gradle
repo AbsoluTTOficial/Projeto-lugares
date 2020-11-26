@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "usjt_ccp1an_bua_primeiro_projeto"

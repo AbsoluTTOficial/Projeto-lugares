@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">usjt_ccp1an_bua_chat_com_firebase</string>
+    <string name="dica_login">What is your login?</string>
+    <string name="dica_senha">And your password?</string>
+    <string name="quero_me_cadastrar">Sign UP</string>
+    <string name="data_nome">In %s, %s says:</string>
+    <string name="digite_sua_mensagem">What are you thinking about?</string>
+
+</resources>
